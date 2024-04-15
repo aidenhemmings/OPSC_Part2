@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "507865807394",
+    "project_id": "opsc-authentication-ba49f",
+    "storage_bucket": "opsc-authentication-ba49f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507865807394:android:b1caea85749bee6420a87b",
+        "android_client_info": {
+          "package_name": "com.example.opsc_part2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507865807394-5cji7fol5mumn120opi0cpd6pkio4esn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWUvtYXS5OweC_NveCfq5bnuDaiw2k0ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507865807394-5cji7fol5mumn120opi0cpd6pkio4esn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
